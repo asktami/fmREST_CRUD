@@ -2,7 +2,7 @@
 
 **Use FileMaker to Create, Read, Update and Delete a RESTful API**
 
-Test data created using [Mockaroo](https://mockaroo.com/).
+30 test records created using [Mockaroo](https://mockaroo.com/).
 
 Fake online REST API created using [My JSON Server](https://my-json-server.typicode.com/).
 
