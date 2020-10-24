@@ -6,4 +6,4 @@
 
 Fake online REST API created using [My JSON Server](https://my-json-server.typicode.com/).
 
-Visit [https://my-json-server.typicode.com/asktami/fmJSON_CRUD](https://my-json-server.typicode.com/asktami/fmJSON_CRUD)
+Visit [https://my-json-server.typicode.com/asktami/fmJSON_CRUD](https://my-json-server.typicode.com/asktami/fmJSON_CRUD).
