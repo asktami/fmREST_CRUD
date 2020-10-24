@@ -1,6 +1,8 @@
 # fmJSON_CRUD
 
-**Use FileMaker to Create, Read, Update and Delete a RESTful API**
+## Consuming REST APIs with FileMaker
+
+**Use FileMaker to perform Create, Read, Update and Delete operations on a RESTful API**
 
 30 test records created using [Mockaroo](https://mockaroo.com/).
 
