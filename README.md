@@ -1,4 +1,4 @@
-# fmJSON_CRUD
+# fmREST_CRUD
 
 ## Consuming REST APIs with FileMaker
 
