@@ -2,7 +2,7 @@
 
 ## Consuming REST APIs with FileMaker
 
-**Use FileMaker to perform Create, Read, Update and Delete operations on a RESTful API**
+Use FileMaker to perform Create, Read, Update and Delete operations on a RESTful API\*\*
 
 ---
 
