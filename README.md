@@ -18,6 +18,10 @@ Use FileMaker to perform Create, Read, Update and Delete operations on a RESTful
 
 - Uses the [GoRest API](https://gorest.co.in/) with real data and responses.
 
-#### Note
+### Demo 3: **TheMovieDB_Browser.fmp12**
 
-Debugged requests using [Request Bin](https://requestbin.com/)
+- Uses [TheMovieDB API](https://www.themoviedb.org/) with real data and responses.
+
+---
+
+**Note:** Debugged requests using [Request Bin](https://requestbin.com/)
