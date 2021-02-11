@@ -16,13 +16,27 @@ TheMovieDB_Browser.fmp12 demo shows how to page through API results, and uses a 
 
 - See the raw JSON data at [https://my-json-server.typicode.com/asktami/fmJSON_CRUD](https://my-json-server.typicode.com/asktami/fmJSON_CRUD).
 
+![fmREST_CRUD](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/fmREST_CRUD.png)
+
 ### Demo 2: **fmREST_CRUD_GoRest.fmp12**
 
 - Uses the [GoRest API](https://gorest.co.in/) with real data and responses.
 
+![fmREST_CRUD_GoRest](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/fmREST_CRUD_GoRest.png)
+
 ### Demo 3: **TheMovieDB_Browser.fmp12**
 
 - Uses [TheMovieDB API](https://www.themoviedb.org/) with real data and responses.
+
+![1_TheMovieDB_Browser-search](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/1_TheMovieDB_Browser-search.png)
+
+![2_TheMovieDB_Browser-search_results](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/2_TheMovieDB_Browser-search_results.png)
+
+![3_TheMovieDB_Browser-movie_detail_cast](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/3_TheMovieDB_Browser-movie_detail_cast.png)
+
+![4_TheMovieDB_Browser-movie_detail_videos](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/4_TheMovieDB_Browser-movie_detail_videos.png)
+
+![5_TheMovieDB_Browser-rating](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/5_TheMovieDB_Browser-rating.png)
 
 ---
 
