@@ -38,6 +38,8 @@ TheMovieDB_Browser.fmp12 demo shows how to page through API results, and uses a 
 
 ![5_TheMovieDB_Browser-rating](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/5_TheMovieDB_Browser-rating.png)
 
+![6_TheMovieDB_Browser-movie_player](https://github.com/asktami/fmREST_CRUD/blob/main/Screenshots/6_TheMovieDB_Browser-movie_player.png)
+
 ---
 
 **Note:** Debugged requests using [Request Bin](https://requestbin.com/)
